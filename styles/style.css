@@ -1,0 +1,20 @@
+/* image card styles */
+.card-img-top {
+    height: 150px;
+}
+
+/* Area Calculation styles */
+.area-calculation {
+    text-decoration: underline;
+}
+
+#area-button {
+    padding: 5px 7px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+/* Blog ul styles */
+.blog-li li {
+    list-style-type: decimal;
+}
